@@ -1,0 +1,1489 @@
+Process created . Amount of Virtual Pages : 6
+[
+  VirtualPage { P: true, R: false, M: false, PPN: 0 },
+  VirtualPage { P: true, R: false, M: false, PPN: 1 },
+  VirtualPage { P: true, R: false, M: false, PPN: 2 },
+  VirtualPage { P: true, R: false, M: false, PPN: 3 },
+  VirtualPage { P: true, R: false, M: false, PPN: 4 },
+  VirtualPage { P: false, R: false, M: false, PPN: null }
+]
+Process created . Amount of Virtual Pages : 10
+[
+  VirtualPage { P: true, R: false, M: false, PPN: 0 },
+  VirtualPage { P: true, R: false, M: false, PPN: 1 },
+  VirtualPage { P: true, R: false, M: false, PPN: 2 },
+  VirtualPage { P: true, R: false, M: false, PPN: 3 },
+  VirtualPage { P: true, R: false, M: false, PPN: 4 },
+  VirtualPage { P: false, R: false, M: false, PPN: null },
+  VirtualPage { P: false, R: false, M: false, PPN: null },
+  VirtualPage { P: false, R: false, M: false, PPN: null },
+  VirtualPage { P: false, R: false, M: false, PPN: null },
+  VirtualPage { P: false, R: false, M: false, PPN: null }
+]
+Process created . Amount of Virtual Pages : 5
+[
+  VirtualPage { P: true, R: false, M: false, PPN: 0 },
+  VirtualPage { P: true, R: false, M: false, PPN: 1 },
+  VirtualPage { P: true, R: false, M: false, PPN: 2 },
+  VirtualPage { P: true, R: false, M: false, PPN: 3 },
+  VirtualPage { P: true, R: false, M: false, PPN: 4 }
+]
+Process created . Amount of Virtual Pages : 10
+[
+  VirtualPage { P: true, R: false, M: false, PPN: 0 },
+  VirtualPage { P: true, R: false, M: false, PPN: 1 },
+  VirtualPage { P: true, R: false, M: false, PPN: 2 },
+  VirtualPage { P: true, R: false, M: false, PPN: 3 },
+  VirtualPage { P: true, R: false, M: false, PPN: 4 },
+  VirtualPage { P: false, R: false, M: false, PPN: null },
+  VirtualPage { P: false, R: false, M: false, PPN: null },
+  VirtualPage { P: false, R: false, M: false, PPN: null },
+  VirtualPage { P: false, R: false, M: false, PPN: null },
+  VirtualPage { P: false, R: false, M: false, PPN: null }
+]
+Process created . Amount of Virtual Pages : 5
+[
+  VirtualPage { P: true, R: false, M: false, PPN: 0 },
+  VirtualPage { P: true, R: false, M: false, PPN: 1 },
+  VirtualPage { P: true, R: false, M: false, PPN: 2 },
+  VirtualPage { P: true, R: false, M: false, PPN: 3 },
+  VirtualPage { P: true, R: false, M: false, PPN: 4 }
+]
+Process created . Amount of Virtual Pages : 11
+[
+  VirtualPage { P: true, R: false, M: false, PPN: 0 },
+  VirtualPage { P: true, R: false, M: false, PPN: 1 },
+  VirtualPage { P: true, R: false, M: false, PPN: 2 },
+  VirtualPage { P: true, R: false, M: false, PPN: 3 },
+  VirtualPage { P: true, R: false, M: false, PPN: 4 },
+  VirtualPage { P: false, R: false, M: false, PPN: null },
+  VirtualPage { P: false, R: false, M: false, PPN: null },
+  VirtualPage { P: false, R: false, M: false, PPN: null },
+  VirtualPage { P: false, R: false, M: false, PPN: null },
+  VirtualPage { P: false, R: false, M: false, PPN: null },
+  VirtualPage { P: false, R: false, M: false, PPN: null }
+]
+Process created . Amount of Virtual Pages : 6
+[
+  VirtualPage { P: true, R: false, M: false, PPN: 0 },
+  VirtualPage { P: true, R: false, M: false, PPN: 1 },
+  VirtualPage { P: true, R: false, M: false, PPN: 2 },
+  VirtualPage { P: true, R: false, M: false, PPN: 3 },
+  VirtualPage { P: true, R: false, M: false, PPN: 4 },
+  VirtualPage { P: false, R: false, M: false, PPN: null }
+]
+Process created . Amount of Virtual Pages : 9
+[
+  VirtualPage { P: true, R: false, M: false, PPN: 0 },
+  VirtualPage { P: true, R: false, M: false, PPN: 1 },
+  VirtualPage { P: true, R: false, M: false, PPN: 2 },
+  VirtualPage { P: true, R: false, M: false, PPN: 3 },
+  VirtualPage { P: true, R: false, M: false, PPN: 4 },
+  VirtualPage { P: false, R: false, M: false, PPN: null },
+  VirtualPage { P: false, R: false, M: false, PPN: null },
+  VirtualPage { P: false, R: false, M: false, PPN: null },
+  VirtualPage { P: false, R: false, M: false, PPN: null }
+]
+Process created . Amount of Virtual Pages : 4
+[
+  VirtualPage { P: true, R: false, M: false, PPN: 0 },
+  VirtualPage { P: true, R: false, M: false, PPN: 1 },
+  VirtualPage { P: true, R: false, M: false, PPN: 2 },
+  VirtualPage { P: true, R: false, M: false, PPN: 3 }
+]
+Process created . Amount of Virtual Pages : 3
+[
+  VirtualPage { P: true, R: false, M: false, PPN: 0 },
+  VirtualPage { P: true, R: false, M: false, PPN: 1 },
+  VirtualPage { P: true, R: false, M: false, PPN: 2 }
+]
+
+Time: 0 Process: 0 VirtualPage Index: 5
+ VirtualPage {"P":false,"R":false,"M":false,"PPN":null}
+Start NRU for replacing pages:
+Found page for replace : Index 0 Class: 0
+{"P":true,"R":false,"M":false,"PPN":0}
+
+Process after replacing :
+[
+  VirtualPage { P: false, R: false, M: false, PPN: null },
+  VirtualPage { P: true, R: false, M: false, PPN: 1 },
+  VirtualPage { P: true, R: false, M: false, PPN: 2 },
+  VirtualPage { P: true, R: false, M: false, PPN: 3 },
+  VirtualPage { P: true, R: false, M: false, PPN: 4 },
+  VirtualPage { P: true, R: false, M: false, PPN: 0 }
+]
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+
+Time: 1 Process: 1 VirtualPage Index: 0
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":0}
+Reading data
+VirtualPage {"P":true,"R":true,"M":false,"PPN":0}
+
+Time: 2 Process: 2 VirtualPage Index: 2
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":2}
+Reading data
+VirtualPage {"P":true,"R":true,"M":false,"PPN":2}
+
+Time: 3 Process: 3 VirtualPage Index: 2
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":2}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+
+Time: 4 Process: 4 VirtualPage Index: 3
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":3}
+Reading data
+VirtualPage {"P":true,"R":true,"M":false,"PPN":3}
+
+Time: 5 Process: 5 VirtualPage Index: 9
+ VirtualPage {"P":false,"R":false,"M":false,"PPN":null}
+Start NRU for replacing pages:
+Found page for replace : Index 0 Class: 0
+{"P":true,"R":false,"M":false,"PPN":0}
+
+Process after replacing :
+[
+  VirtualPage { P: false, R: false, M: false, PPN: null },
+  VirtualPage { P: true, R: false, M: false, PPN: 1 },
+  VirtualPage { P: true, R: false, M: false, PPN: 2 },
+  VirtualPage { P: true, R: false, M: false, PPN: 3 },
+  VirtualPage { P: true, R: false, M: false, PPN: 4 },
+  VirtualPage { P: false, R: false, M: false, PPN: null },
+  VirtualPage { P: false, R: false, M: false, PPN: null },
+  VirtualPage { P: false, R: false, M: false, PPN: null },
+  VirtualPage { P: false, R: false, M: false, PPN: null },
+  VirtualPage { P: true, R: false, M: false, PPN: 0 },
+  VirtualPage { P: false, R: false, M: false, PPN: null }
+]
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+
+Time: 6 Process: 6 VirtualPage Index: 2
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":2}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+
+Time: 7 Process: 7 VirtualPage Index: 2
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":2}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+
+Time: 8 Process: 8 VirtualPage Index: 2
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":2}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+
+Time: 9 Process: 9 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":1}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 10 Process: 0 VirtualPage Index: 2
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":2}
+Reading data
+VirtualPage {"P":true,"R":true,"M":false,"PPN":2}
+
+Time: 11 Process: 1 VirtualPage Index: 4
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":4}
+Reading data
+VirtualPage {"P":true,"R":true,"M":false,"PPN":4}
+
+Time: 12 Process: 2 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":1}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 13 Process: 3 VirtualPage Index: 4
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":4}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":4}
+
+Time: 14 Process: 4 VirtualPage Index: 4
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":4}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":4}
+
+Time: 15 Process: 5 VirtualPage Index: 9
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+
+Time: 16 Process: 6 VirtualPage Index: 3
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":3}
+Reading data
+VirtualPage {"P":true,"R":true,"M":false,"PPN":3}
+
+Time: 17 Process: 7 VirtualPage Index: 0
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":0}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+
+Time: 18 Process: 8 VirtualPage Index: 2
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+
+Time: 19 Process: 9 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 20 Process: 0 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":1}
+Reading data
+VirtualPage {"P":true,"R":true,"M":false,"PPN":1}
+
+Time: 21 Process: 1 VirtualPage Index: 4
+ VirtualPage {"P":true,"R":true,"M":false,"PPN":4}
+Reading data
+VirtualPage {"P":true,"R":true,"M":false,"PPN":4}
+
+Time: 22 Process: 2 VirtualPage Index: 4
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":4}
+Reading data
+VirtualPage {"P":true,"R":true,"M":false,"PPN":4}
+
+Time: 23 Process: 3 VirtualPage Index: 3
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":3}
+Reading data
+VirtualPage {"P":true,"R":true,"M":false,"PPN":3}
+
+Time: 24 Process: 4 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":1}
+Reading data
+VirtualPage {"P":true,"R":true,"M":false,"PPN":1}
+
+Time: 25 Process: 5 VirtualPage Index: 9
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+
+Time: 26 Process: 6 VirtualPage Index: 2
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+
+Time: 27 Process: 7 VirtualPage Index: 0
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+
+Time: 28 Process: 8 VirtualPage Index: 3
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":3}
+Reading data
+VirtualPage {"P":true,"R":true,"M":false,"PPN":3}
+
+Time: 29 Process: 9 VirtualPage Index: 0
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":0}
+Reading data
+VirtualPage {"P":true,"R":true,"M":false,"PPN":0}
+
+Time: 30 Process: 0 VirtualPage Index: 5
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+
+Time: 31 Process: 1 VirtualPage Index: 2
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":2}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+
+Time: 32 Process: 2 VirtualPage Index: 3
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":3}
+Reading data
+VirtualPage {"P":true,"R":true,"M":false,"PPN":3}
+
+Time: 33 Process: 3 VirtualPage Index: 4
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":4}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":4}
+
+Time: 34 Process: 4 VirtualPage Index: 0
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":0}
+Reading data
+VirtualPage {"P":true,"R":true,"M":false,"PPN":0}
+
+Time: 35 Process: 5 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":1}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 36 Process: 6 VirtualPage Index: 4
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":4}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":4}
+
+Time: 37 Process: 7 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":1}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 38 Process: 8 VirtualPage Index: 3
+ VirtualPage {"P":true,"R":true,"M":false,"PPN":3}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":3}
+
+Time: 39 Process: 9 VirtualPage Index: 2
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":2}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+
+Time: 40 Process: 0 VirtualPage Index: 3
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":3}
+Reading data
+VirtualPage {"P":true,"R":true,"M":false,"PPN":3}
+R bit set to false for :TimeOfSet :1 Process 1 VirtualPage 0
+R bit set to false for :TimeOfSet :2 Process 2 VirtualPage 2
+R bit set to false for :TimeOfSet :3 Process 3 VirtualPage 2
+R bit set to false for :TimeOfSet :4 Process 4 VirtualPage 3
+R bit set to false for :TimeOfSet :7 Process 7 VirtualPage 2
+R bit set to false for :TimeOfSet :18 Process 8 VirtualPage 2
+R bit set to false for :TimeOfSet :19 Process 9 VirtualPage 1
+R bit set to false for :TimeOfSet :10 Process 0 VirtualPage 2
+R bit set to false for :TimeOfSet :12 Process 2 VirtualPage 1
+R bit set to false for :TimeOfSet :14 Process 4 VirtualPage 4
+R bit set to false for :TimeOfSet :16 Process 6 VirtualPage 3
+
+SettingTime + NumOfProcess + NumOfPage with R true bit:
+[
+  [ 30, 0, 5 ], [ 25, 5, 9 ],
+  [ 26, 6, 2 ], [ 21, 1, 4 ],
+  [ 33, 3, 4 ], [ 27, 7, 0 ],
+  [ 20, 0, 1 ], [ 22, 2, 4 ],
+  [ 23, 3, 3 ], [ 24, 4, 1 ],
+  [ 38, 8, 3 ], [ 29, 9, 0 ],
+  [ 31, 1, 2 ], [ 32, 2, 3 ],
+  [ 34, 4, 0 ], [ 35, 5, 1 ],
+  [ 36, 6, 4 ], [ 37, 7, 1 ],
+  [ 39, 9, 2 ], [ 40, 0, 3 ]
+]
+
+Time: 41 Process: 1 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":1}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 42 Process: 2 VirtualPage Index: 0
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":0}
+Reading data
+VirtualPage {"P":true,"R":true,"M":false,"PPN":0}
+
+Time: 43 Process: 3 VirtualPage Index: 3
+ VirtualPage {"P":true,"R":true,"M":false,"PPN":3}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":3}
+
+Time: 44 Process: 4 VirtualPage Index: 3
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":3}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":3}
+
+Time: 45 Process: 5 VirtualPage Index: 2
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":2}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+
+Time: 46 Process: 6 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":1}
+Reading data
+VirtualPage {"P":true,"R":true,"M":false,"PPN":1}
+
+Time: 47 Process: 7 VirtualPage Index: 0
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+
+Time: 48 Process: 8 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":1}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 49 Process: 9 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":false,"M":true,"PPN":1}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 50 Process: 0 VirtualPage Index: 0
+ VirtualPage {"P":false,"R":false,"M":false,"PPN":null}
+Start NRU for replacing pages:
+Found page for replace : Index 2 Class: 0
+{"P":true,"R":false,"M":false,"PPN":2}
+
+Process after replacing :
+[
+  VirtualPage { P: true, R: false, M: false, PPN: 2 },
+  VirtualPage { P: true, R: true, M: false, PPN: 1 },
+  VirtualPage { P: false, R: false, M: false, PPN: null },
+  VirtualPage { P: true, R: true, M: false, PPN: 3 },
+  VirtualPage { P: true, R: false, M: false, PPN: 4 },
+  VirtualPage { P: true, R: true, M: true, PPN: 0 }
+]
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+
+Time: 51 Process: 1 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 52 Process: 2 VirtualPage Index: 0
+ VirtualPage {"P":true,"R":true,"M":false,"PPN":0}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+
+Time: 53 Process: 3 VirtualPage Index: 4
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":4}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":4}
+
+Time: 54 Process: 4 VirtualPage Index: 0
+ VirtualPage {"P":true,"R":true,"M":false,"PPN":0}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+
+Time: 55 Process: 5 VirtualPage Index: 4
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":4}
+Reading data
+VirtualPage {"P":true,"R":true,"M":false,"PPN":4}
+
+Time: 56 Process: 6 VirtualPage Index: 0
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":0}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+
+Time: 57 Process: 7 VirtualPage Index: 0
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+
+Time: 58 Process: 8 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 59 Process: 9 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 60 Process: 0 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":true,"M":false,"PPN":1}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 61 Process: 1 VirtualPage Index: 4
+ VirtualPage {"P":true,"R":true,"M":false,"PPN":4}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":4}
+
+Time: 62 Process: 2 VirtualPage Index: 4
+ VirtualPage {"P":true,"R":true,"M":false,"PPN":4}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":4}
+
+Time: 63 Process: 3 VirtualPage Index: 2
+ VirtualPage {"P":true,"R":false,"M":true,"PPN":2}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+
+Time: 64 Process: 4 VirtualPage Index: 4
+ VirtualPage {"P":true,"R":false,"M":true,"PPN":4}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":4}
+
+Time: 65 Process: 5 VirtualPage Index: 9
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+
+Time: 66 Process: 6 VirtualPage Index: 3
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":3}
+Reading data
+VirtualPage {"P":true,"R":true,"M":false,"PPN":3}
+
+Time: 67 Process: 7 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 68 Process: 8 VirtualPage Index: 3
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":3}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":3}
+
+Time: 69 Process: 9 VirtualPage Index: 0
+ VirtualPage {"P":true,"R":true,"M":false,"PPN":0}
+Reading data
+VirtualPage {"P":true,"R":true,"M":false,"PPN":0}
+
+Time: 70 Process: 0 VirtualPage Index: 3
+ VirtualPage {"P":true,"R":true,"M":false,"PPN":3}
+Reading data
+VirtualPage {"P":true,"R":true,"M":false,"PPN":3}
+
+Time: 71 Process: 1 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 72 Process: 2 VirtualPage Index: 3
+ VirtualPage {"P":true,"R":true,"M":false,"PPN":3}
+Reading data
+VirtualPage {"P":true,"R":true,"M":false,"PPN":3}
+
+Time: 73 Process: 3 VirtualPage Index: 2
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+
+Time: 74 Process: 4 VirtualPage Index: 3
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":3}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":3}
+
+Time: 75 Process: 5 VirtualPage Index: 6
+ VirtualPage {"P":false,"R":false,"M":false,"PPN":null}
+Start NRU for replacing pages:
+Found page for replace : Index 3 Class: 0
+{"P":true,"R":false,"M":false,"PPN":3}
+
+Process after replacing :
+[
+  VirtualPage { P: false, R: false, M: false, PPN: null },
+  VirtualPage { P: true, R: true, M: true, PPN: 1 },
+  VirtualPage { P: true, R: true, M: true, PPN: 2 },
+  VirtualPage { P: false, R: false, M: false, PPN: null },
+  VirtualPage { P: true, R: true, M: false, PPN: 4 },
+  VirtualPage { P: false, R: false, M: false, PPN: null },
+  VirtualPage { P: true, R: false, M: false, PPN: 3 },
+  VirtualPage { P: false, R: false, M: false, PPN: null },
+  VirtualPage { P: false, R: false, M: false, PPN: null },
+  VirtualPage { P: true, R: true, M: true, PPN: 0 },
+  VirtualPage { P: false, R: false, M: false, PPN: null }
+]
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":3}
+
+Time: 76 Process: 6 VirtualPage Index: 2
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+
+Time: 77 Process: 7 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 78 Process: 8 VirtualPage Index: 3
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":3}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":3}
+
+Time: 79 Process: 9 VirtualPage Index: 0
+ VirtualPage {"P":true,"R":true,"M":false,"PPN":0}
+Reading data
+VirtualPage {"P":true,"R":true,"M":false,"PPN":0}
+
+Time: 80 Process: 0 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+R bit set to false for :TimeOfSet :30 Process 0 VirtualPage 5
+R bit set to false for :TimeOfSet :53 Process 3 VirtualPage 4
+R bit set to false for :TimeOfSet :57 Process 7 VirtualPage 0
+R bit set to false for :TimeOfSet :43 Process 3 VirtualPage 3
+R bit set to false for :TimeOfSet :24 Process 4 VirtualPage 1
+R bit set to false for :TimeOfSet :31 Process 1 VirtualPage 2
+R bit set to false for :TimeOfSet :54 Process 4 VirtualPage 0
+R bit set to false for :TimeOfSet :35 Process 5 VirtualPage 1
+R bit set to false for :TimeOfSet :36 Process 6 VirtualPage 4
+R bit set to false for :TimeOfSet :39 Process 9 VirtualPage 2
+R bit set to false for :TimeOfSet :52 Process 2 VirtualPage 0
+R bit set to false for :TimeOfSet :45 Process 5 VirtualPage 2
+R bit set to false for :TimeOfSet :46 Process 6 VirtualPage 1
+R bit set to false for :TimeOfSet :58 Process 8 VirtualPage 1
+R bit set to false for :TimeOfSet :59 Process 9 VirtualPage 1
+R bit set to false for :TimeOfSet :50 Process 0 VirtualPage 0
+R bit set to false for :TimeOfSet :55 Process 5 VirtualPage 4
+R bit set to false for :TimeOfSet :56 Process 6 VirtualPage 0
+
+SettingTime + NumOfProcess + NumOfPage with R true bit:
+[
+  [ 65, 5, 9 ], [ 76, 6, 2 ],
+  [ 61, 1, 4 ], [ 80, 0, 1 ],
+  [ 62, 2, 4 ], [ 78, 8, 3 ],
+  [ 79, 9, 0 ], [ 72, 2, 3 ],
+  [ 77, 7, 1 ], [ 70, 0, 3 ],
+  [ 71, 1, 1 ], [ 74, 4, 3 ],
+  [ 73, 3, 2 ], [ 64, 4, 4 ],
+  [ 66, 6, 3 ], [ 75, 5, 6 ]
+]
+
+Time: 81 Process: 1 VirtualPage Index: 4
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":4}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":4}
+
+Time: 82 Process: 2 VirtualPage Index: 0
+ VirtualPage {"P":true,"R":false,"M":true,"PPN":0}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+
+Time: 83 Process: 3 VirtualPage Index: 2
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+
+Time: 84 Process: 4 VirtualPage Index: 3
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":3}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":3}
+
+Time: 85 Process: 5 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":false,"M":true,"PPN":1}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 86 Process: 6 VirtualPage Index: 5
+ VirtualPage {"P":false,"R":false,"M":false,"PPN":null}
+Start NRU for replacing pages:
+Found page for replace : Index 1 Class: 0
+{"P":true,"R":false,"M":false,"PPN":1}
+
+Process after replacing :
+[
+  VirtualPage { P: true, R: false, M: true, PPN: 0 },
+  VirtualPage { P: false, R: false, M: false, PPN: null },
+  VirtualPage { P: true, R: true, M: true, PPN: 2 },
+  VirtualPage { P: true, R: true, M: false, PPN: 3 },
+  VirtualPage { P: true, R: false, M: true, PPN: 4 },
+  VirtualPage { P: true, R: false, M: false, PPN: 1 }
+]
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 87 Process: 7 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 88 Process: 8 VirtualPage Index: 2
+ VirtualPage {"P":true,"R":false,"M":true,"PPN":2}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+
+Time: 89 Process: 9 VirtualPage Index: 2
+ VirtualPage {"P":true,"R":false,"M":true,"PPN":2}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+
+Time: 90 Process: 0 VirtualPage Index: 4
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":4}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":4}
+
+Time: 91 Process: 1 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 92 Process: 2 VirtualPage Index: 3
+ VirtualPage {"P":true,"R":true,"M":false,"PPN":3}
+Reading data
+VirtualPage {"P":true,"R":true,"M":false,"PPN":3}
+
+Time: 93 Process: 3 VirtualPage Index: 4
+ VirtualPage {"P":true,"R":false,"M":true,"PPN":4}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":4}
+
+Time: 94 Process: 4 VirtualPage Index: 4
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":4}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":4}
+
+Time: 95 Process: 5 VirtualPage Index: 4
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":4}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":4}
+
+Time: 96 Process: 6 VirtualPage Index: 3
+ VirtualPage {"P":true,"R":true,"M":false,"PPN":3}
+Reading data
+VirtualPage {"P":true,"R":true,"M":false,"PPN":3}
+
+Time: 97 Process: 7 VirtualPage Index: 2
+ VirtualPage {"P":true,"R":false,"M":true,"PPN":2}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+
+Time: 98 Process: 8 VirtualPage Index: 2
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+
+Time: 99 Process: 9 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":false,"M":true,"PPN":1}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 100 Process: 0 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 101 Process: 1 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 102 Process: 2 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":false,"M":true,"PPN":1}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 103 Process: 3 VirtualPage Index: 4
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":4}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":4}
+
+Time: 104 Process: 4 VirtualPage Index: 0
+ VirtualPage {"P":true,"R":false,"M":true,"PPN":0}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+
+Time: 105 Process: 5 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 106 Process: 6 VirtualPage Index: 5
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 107 Process: 7 VirtualPage Index: 0
+ VirtualPage {"P":true,"R":false,"M":true,"PPN":0}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+
+Time: 108 Process: 8 VirtualPage Index: 0
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":0}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+
+Time: 109 Process: 9 VirtualPage Index: 0
+ VirtualPage {"P":true,"R":true,"M":false,"PPN":0}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+
+Time: 110 Process: 0 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 111 Process: 1 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 112 Process: 2 VirtualPage Index: 2
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":2}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+
+Time: 113 Process: 3 VirtualPage Index: 4
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":4}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":4}
+
+Time: 114 Process: 4 VirtualPage Index: 0
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+
+Time: 115 Process: 5 VirtualPage Index: 4
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":4}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":4}
+
+Time: 116 Process: 6 VirtualPage Index: 3
+ VirtualPage {"P":true,"R":true,"M":false,"PPN":3}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":3}
+
+Time: 117 Process: 7 VirtualPage Index: 4
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":4}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":4}
+
+Time: 118 Process: 8 VirtualPage Index: 3
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":3}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":3}
+
+Time: 119 Process: 9 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 120 Process: 0 VirtualPage Index: 5
+ VirtualPage {"P":true,"R":false,"M":true,"PPN":0}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+R bit set to false for :TimeOfSet :65 Process 5 VirtualPage 9
+R bit set to false for :TimeOfSet :76 Process 6 VirtualPage 2
+R bit set to false for :TimeOfSet :81 Process 1 VirtualPage 4
+R bit set to false for :TimeOfSet :62 Process 2 VirtualPage 4
+R bit set to false for :TimeOfSet :92 Process 2 VirtualPage 3
+R bit set to false for :TimeOfSet :87 Process 7 VirtualPage 1
+R bit set to false for :TimeOfSet :70 Process 0 VirtualPage 3
+R bit set to false for :TimeOfSet :84 Process 4 VirtualPage 3
+R bit set to false for :TimeOfSet :83 Process 3 VirtualPage 2
+R bit set to false for :TimeOfSet :94 Process 4 VirtualPage 4
+R bit set to false for :TimeOfSet :75 Process 5 VirtualPage 6
+R bit set to false for :TimeOfSet :82 Process 2 VirtualPage 0
+R bit set to false for :TimeOfSet :98 Process 8 VirtualPage 2
+R bit set to false for :TimeOfSet :89 Process 9 VirtualPage 2
+R bit set to false for :TimeOfSet :90 Process 0 VirtualPage 4
+R bit set to false for :TimeOfSet :97 Process 7 VirtualPage 2
+
+SettingTime + NumOfProcess + NumOfPage with R true bit:
+[
+  [ 110, 0, 1 ], [ 118, 8, 3 ],
+  [ 109, 9, 0 ], [ 111, 1, 1 ],
+  [ 116, 6, 3 ], [ 105, 5, 1 ],
+  [ 106, 6, 5 ], [ 113, 3, 4 ],
+  [ 115, 5, 4 ], [ 119, 9, 1 ],
+  [ 102, 2, 1 ], [ 114, 4, 0 ],
+  [ 107, 7, 0 ], [ 108, 8, 0 ],
+  [ 112, 2, 2 ], [ 117, 7, 4 ],
+  [ 120, 0, 5 ]
+]
+
+Time: 121 Process: 1 VirtualPage Index: 4
+ VirtualPage {"P":true,"R":false,"M":true,"PPN":4}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":4}
+
+Time: 122 Process: 2 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 123 Process: 3 VirtualPage Index: 3
+ VirtualPage {"P":true,"R":false,"M":true,"PPN":3}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":3}
+
+Time: 124 Process: 4 VirtualPage Index: 4
+ VirtualPage {"P":true,"R":false,"M":true,"PPN":4}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":4}
+
+Time: 125 Process: 5 VirtualPage Index: 9
+ VirtualPage {"P":true,"R":false,"M":true,"PPN":0}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+
+Time: 126 Process: 6 VirtualPage Index: 5
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 127 Process: 7 VirtualPage Index: 2
+ VirtualPage {"P":true,"R":false,"M":true,"PPN":2}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+
+Time: 128 Process: 8 VirtualPage Index: 3
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":3}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":3}
+
+Time: 129 Process: 9 VirtualPage Index: 0
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+
+Time: 130 Process: 0 VirtualPage Index: 2
+ VirtualPage {"P":false,"R":false,"M":false,"PPN":null}
+Start NRU for replacing pages:
+Found page for replace : Index 3 Class: 0
+{"P":true,"R":false,"M":false,"PPN":3}
+
+Process after replacing :
+[
+  VirtualPage { P: true, R: false, M: true, PPN: 2 },
+  VirtualPage { P: true, R: true, M: true, PPN: 1 },
+  VirtualPage { P: true, R: false, M: false, PPN: 3 },
+  VirtualPage { P: false, R: false, M: false, PPN: null },
+  VirtualPage { P: true, R: false, M: true, PPN: 4 },
+  VirtualPage { P: true, R: true, M: true, PPN: 0 }
+]
+Reading data
+VirtualPage {"P":true,"R":true,"M":false,"PPN":3}
+
+Time: 131 Process: 1 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 132 Process: 2 VirtualPage Index: 3
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":3}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":3}
+
+Time: 133 Process: 3 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":1}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 134 Process: 4 VirtualPage Index: 4
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":4}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":4}
+
+Time: 135 Process: 5 VirtualPage Index: 2
+ VirtualPage {"P":true,"R":false,"M":true,"PPN":2}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+
+Time: 136 Process: 6 VirtualPage Index: 1
+ VirtualPage {"P":false,"R":false,"M":false,"PPN":null}
+Start NRU for replacing pages:
+Found page for replace : Index 0 Class: 1
+{"P":true,"R":false,"M":true,"PPN":0}
+
+Process after replacing :
+[
+  VirtualPage { P: false, R: false, M: false, PPN: null },
+  VirtualPage { P: true, R: false, M: false, PPN: 0 },
+  VirtualPage { P: true, R: false, M: true, PPN: 2 },
+  VirtualPage { P: true, R: true, M: true, PPN: 3 },
+  VirtualPage { P: true, R: false, M: true, PPN: 4 },
+  VirtualPage { P: true, R: true, M: true, PPN: 1 }
+]
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+
+Time: 137 Process: 7 VirtualPage Index: 5
+ VirtualPage {"P":false,"R":false,"M":false,"PPN":null}
+Start NRU for replacing pages:
+Found page for replace : Index 3 Class: 0
+{"P":true,"R":false,"M":false,"PPN":3}
+
+Process after replacing :
+[
+  VirtualPage { P: true, R: true, M: true, PPN: 0 },
+  VirtualPage { P: true, R: false, M: true, PPN: 1 },
+  VirtualPage { P: true, R: true, M: true, PPN: 2 },
+  VirtualPage { P: false, R: false, M: false, PPN: null },
+  VirtualPage { P: true, R: true, M: true, PPN: 4 },
+  VirtualPage { P: true, R: false, M: false, PPN: 3 },
+  VirtualPage { P: false, R: false, M: false, PPN: null },
+  VirtualPage { P: false, R: false, M: false, PPN: null },
+  VirtualPage { P: false, R: false, M: false, PPN: null }
+]
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":3}
+
+Time: 138 Process: 8 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":false,"M":true,"PPN":1}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 139 Process: 9 VirtualPage Index: 0
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+
+Time: 140 Process: 0 VirtualPage Index: 0
+ VirtualPage {"P":true,"R":false,"M":true,"PPN":2}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+
+Time: 141 Process: 1 VirtualPage Index: 0
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":0}
+Reading data
+VirtualPage {"P":true,"R":true,"M":false,"PPN":0}
+
+Time: 142 Process: 2 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 143 Process: 3 VirtualPage Index: 0
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":0}
+Reading data
+VirtualPage {"P":true,"R":true,"M":false,"PPN":0}
+
+Time: 144 Process: 4 VirtualPage Index: 3
+ VirtualPage {"P":true,"R":false,"M":true,"PPN":3}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":3}
+
+Time: 145 Process: 5 VirtualPage Index: 2
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+
+Time: 146 Process: 6 VirtualPage Index: 4
+ VirtualPage {"P":true,"R":false,"M":true,"PPN":4}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":4}
+
+Time: 147 Process: 7 VirtualPage Index: 0
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+
+Time: 148 Process: 8 VirtualPage Index: 0
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+
+Time: 149 Process: 9 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 150 Process: 0 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 151 Process: 1 VirtualPage Index: 2
+ VirtualPage {"P":true,"R":false,"M":true,"PPN":2}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+
+Time: 152 Process: 2 VirtualPage Index: 2
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+
+Time: 153 Process: 3 VirtualPage Index: 2
+ VirtualPage {"P":true,"R":false,"M":true,"PPN":2}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+
+Time: 154 Process: 4 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":1}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 155 Process: 5 VirtualPage Index: 9
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+
+Time: 156 Process: 6 VirtualPage Index: 5
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 157 Process: 7 VirtualPage Index: 5
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":3}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":3}
+
+Time: 158 Process: 8 VirtualPage Index: 3
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":3}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":3}
+
+Time: 159 Process: 9 VirtualPage Index: 0
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+
+Time: 160 Process: 0 VirtualPage Index: 3
+ VirtualPage {"P":false,"R":false,"M":false,"PPN":null}
+Start NRU for replacing pages:
+Found page for replace : Index 4 Class: 1
+{"P":true,"R":false,"M":true,"PPN":4}
+
+Process after replacing :
+[
+  VirtualPage { P: true, R: true, M: true, PPN: 2 },
+  VirtualPage { P: true, R: true, M: true, PPN: 1 },
+  VirtualPage { P: true, R: true, M: false, PPN: 3 },
+  VirtualPage { P: true, R: false, M: false, PPN: 4 },
+  VirtualPage { P: false, R: false, M: false, PPN: null },
+  VirtualPage { P: true, R: true, M: true, PPN: 0 }
+]
+Reading data
+VirtualPage {"P":true,"R":true,"M":false,"PPN":4}
+R bit set to false for :TimeOfSet :131 Process 1 VirtualPage 1
+R bit set to false for :TimeOfSet :116 Process 6 VirtualPage 3
+R bit set to false for :TimeOfSet :105 Process 5 VirtualPage 1
+R bit set to false for :TimeOfSet :113 Process 3 VirtualPage 4
+R bit set to false for :TimeOfSet :115 Process 5 VirtualPage 4
+R bit set to false for :TimeOfSet :114 Process 4 VirtualPage 0
+R bit set to false for :TimeOfSet :117 Process 7 VirtualPage 4
+R bit set to false for :TimeOfSet :120 Process 0 VirtualPage 5
+R bit set to false for :TimeOfSet :121 Process 1 VirtualPage 4
+R bit set to false for :TimeOfSet :123 Process 3 VirtualPage 3
+R bit set to false for :TimeOfSet :134 Process 4 VirtualPage 4
+R bit set to false for :TimeOfSet :127 Process 7 VirtualPage 2
+R bit set to false for :TimeOfSet :130 Process 0 VirtualPage 2
+R bit set to false for :TimeOfSet :132 Process 2 VirtualPage 3
+R bit set to false for :TimeOfSet :133 Process 3 VirtualPage 1
+R bit set to false for :TimeOfSet :136 Process 6 VirtualPage 1
+R bit set to false for :TimeOfSet :138 Process 8 VirtualPage 1
+
+SettingTime + NumOfProcess + NumOfPage with R true bit:
+[
+  [ 150, 0, 1 ], [ 158, 8, 3 ],
+  [ 159, 9, 0 ], [ 156, 6, 5 ],
+  [ 149, 9, 1 ], [ 142, 2, 1 ],
+  [ 147, 7, 0 ], [ 148, 8, 0 ],
+  [ 152, 2, 2 ], [ 155, 5, 9 ],
+  [ 145, 5, 2 ], [ 157, 7, 5 ],
+  [ 140, 0, 0 ], [ 141, 1, 0 ],
+  [ 143, 3, 0 ], [ 144, 4, 3 ],
+  [ 146, 6, 4 ], [ 151, 1, 2 ],
+  [ 153, 3, 2 ], [ 154, 4, 1 ],
+  [ 160, 0, 3 ]
+]
+
+Time: 161 Process: 1 VirtualPage Index: 4
+ VirtualPage {"P":true,"R":false,"M":true,"PPN":4}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":4}
+
+Time: 162 Process: 2 VirtualPage Index: 0
+ VirtualPage {"P":true,"R":false,"M":true,"PPN":0}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+
+Time: 163 Process: 3 VirtualPage Index: 4
+ VirtualPage {"P":true,"R":false,"M":true,"PPN":4}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":4}
+
+Time: 164 Process: 4 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 165 Process: 5 VirtualPage Index: 9
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+
+Time: 166 Process: 6 VirtualPage Index: 5
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 167 Process: 7 VirtualPage Index: 0
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+
+Time: 168 Process: 8 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":false,"M":true,"PPN":1}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 169 Process: 9 VirtualPage Index: 0
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+
+Time: 170 Process: 0 VirtualPage Index: 2
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":3}
+Reading data
+VirtualPage {"P":true,"R":true,"M":false,"PPN":3}
+
+Time: 171 Process: 1 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":false,"M":true,"PPN":1}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 172 Process: 2 VirtualPage Index: 4
+ VirtualPage {"P":true,"R":false,"M":true,"PPN":4}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":4}
+
+Time: 173 Process: 3 VirtualPage Index: 0
+ VirtualPage {"P":true,"R":true,"M":false,"PPN":0}
+Reading data
+VirtualPage {"P":true,"R":true,"M":false,"PPN":0}
+
+Time: 174 Process: 4 VirtualPage Index: 3
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":3}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":3}
+
+Time: 175 Process: 5 VirtualPage Index: 6
+ VirtualPage {"P":true,"R":false,"M":true,"PPN":3}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":3}
+
+Time: 176 Process: 6 VirtualPage Index: 4
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":4}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":4}
+
+Time: 177 Process: 7 VirtualPage Index: 2
+ VirtualPage {"P":true,"R":false,"M":true,"PPN":2}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+
+Time: 178 Process: 8 VirtualPage Index: 0
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+
+Time: 179 Process: 9 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 180 Process: 0 VirtualPage Index: 0
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+
+Time: 181 Process: 1 VirtualPage Index: 3
+ VirtualPage {"P":true,"R":false,"M":false,"PPN":3}
+Reading data
+VirtualPage {"P":true,"R":true,"M":false,"PPN":3}
+
+Time: 182 Process: 2 VirtualPage Index: 3
+ VirtualPage {"P":true,"R":false,"M":true,"PPN":3}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":3}
+
+Time: 183 Process: 3 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":false,"M":true,"PPN":1}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 184 Process: 4 VirtualPage Index: 0
+ VirtualPage {"P":true,"R":false,"M":true,"PPN":0}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+
+Time: 185 Process: 5 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":false,"M":true,"PPN":1}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 186 Process: 6 VirtualPage Index: 4
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":4}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":4}
+
+Time: 187 Process: 7 VirtualPage Index: 0
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+
+Time: 188 Process: 8 VirtualPage Index: 0
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+
+Time: 189 Process: 9 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 190 Process: 0 VirtualPage Index: 3
+ VirtualPage {"P":true,"R":true,"M":false,"PPN":4}
+Reading data
+VirtualPage {"P":true,"R":true,"M":false,"PPN":4}
+
+Time: 191 Process: 1 VirtualPage Index: 2
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+
+Time: 192 Process: 2 VirtualPage Index: 3
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":3}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":3}
+
+Time: 193 Process: 3 VirtualPage Index: 3
+ VirtualPage {"P":true,"R":false,"M":true,"PPN":3}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":3}
+
+Time: 194 Process: 4 VirtualPage Index: 3
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":3}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":3}
+
+Time: 195 Process: 5 VirtualPage Index: 6
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":3}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":3}
+
+Time: 196 Process: 6 VirtualPage Index: 0
+ VirtualPage {"P":false,"R":false,"M":false,"PPN":null}
+Start NRU for replacing pages:
+Found page for replace : Index 1 Class: 1
+{"P":true,"R":false,"M":true,"PPN":0}
+
+Process after replacing :
+[
+  VirtualPage { P: true, R: false, M: false, PPN: 0 },
+  VirtualPage { P: false, R: false, M: false, PPN: null },
+  VirtualPage { P: true, R: false, M: true, PPN: 2 },
+  VirtualPage { P: true, R: false, M: true, PPN: 3 },
+  VirtualPage { P: true, R: true, M: true, PPN: 4 },
+  VirtualPage { P: true, R: true, M: true, PPN: 1 }
+]
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+
+Time: 197 Process: 7 VirtualPage Index: 2
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":2}
+
+Time: 198 Process: 8 VirtualPage Index: 3
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":3}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":3}
+
+Time: 199 Process: 9 VirtualPage Index: 1
+ VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+Reading data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":1}
+
+Time: 200 Process: 0 VirtualPage Index: 5
+ VirtualPage {"P":true,"R":false,"M":true,"PPN":0}
+Writing data
+VirtualPage {"P":true,"R":true,"M":true,"PPN":0}
+R bit set to false for :TimeOfSet :150 Process 0 VirtualPage 1
+R bit set to false for :TimeOfSet :169 Process 9 VirtualPage 0
+R bit set to false for :TimeOfSet :166 Process 6 VirtualPage 5
+R bit set to false for :TimeOfSet :142 Process 2 VirtualPage 1
+R bit set to false for :TimeOfSet :152 Process 2 VirtualPage 2
+R bit set to false for :TimeOfSet :165 Process 5 VirtualPage 9
+R bit set to false for :TimeOfSet :145 Process 5 VirtualPage 2
+R bit set to false for :TimeOfSet :157 Process 7 VirtualPage 5
+R bit set to false for :TimeOfSet :141 Process 1 VirtualPage 0
+R bit set to false for :TimeOfSet :173 Process 3 VirtualPage 0
+R bit set to false for :TimeOfSet :153 Process 3 VirtualPage 2
+R bit set to false for :TimeOfSet :164 Process 4 VirtualPage 1
+R bit set to false for :TimeOfSet :161 Process 1 VirtualPage 4
+R bit set to false for :TimeOfSet :162 Process 2 VirtualPage 0
+R bit set to false for :TimeOfSet :163 Process 3 VirtualPage 4
+R bit set to false for :TimeOfSet :168 Process 8 VirtualPage 1
+R bit set to false for :TimeOfSet :170 Process 0 VirtualPage 2
+R bit set to false for :TimeOfSet :171 Process 1 VirtualPage 1
+R bit set to false for :TimeOfSet :172 Process 2 VirtualPage 4
+
+SettingTime + NumOfProcess + NumOfPage with R true bit:
+[
+  [ 198, 8, 3 ], [ 199, 9, 1 ],
+  [ 187, 7, 0 ], [ 188, 8, 0 ],
+  [ 180, 0, 0 ], [ 194, 4, 3 ],
+  [ 186, 6, 4 ], [ 191, 1, 2 ],
+  [ 190, 0, 3 ], [ 195, 5, 6 ],
+  [ 197, 7, 2 ], [ 181, 1, 3 ],
+  [ 192, 2, 3 ], [ 183, 3, 1 ],
+  [ 184, 4, 0 ], [ 185, 5, 1 ],
+  [ 193, 3, 3 ], [ 196, 6, 0 ],
+  [ 200, 0, 5 ]
+]
+
+AllProcesses after 201 tacts:
+[
+  [
+    VirtualPage { P: true, R: true, M: true, PPN: 2 },
+    VirtualPage { P: true, R: false, M: true, PPN: 1 },
+    VirtualPage { P: true, R: false, M: false, PPN: 3 },
+    VirtualPage { P: true, R: true, M: false, PPN: 4 },
+    VirtualPage { P: false, R: false, M: false, PPN: null },
+    VirtualPage { P: true, R: true, M: true, PPN: 0 }
+  ],
+  [
+    VirtualPage { P: true, R: false, M: false, PPN: 0 },
+    VirtualPage { P: true, R: false, M: true, PPN: 1 },
+    VirtualPage { P: true, R: true, M: true, PPN: 2 },
+    VirtualPage { P: true, R: true, M: false, PPN: 3 },
+    VirtualPage { P: true, R: false, M: true, PPN: 4 },
+    VirtualPage { P: false, R: false, M: false, PPN: null },
+    VirtualPage { P: false, R: false, M: false, PPN: null },
+    VirtualPage { P: false, R: false, M: false, PPN: null },
+    VirtualPage { P: false, R: false, M: false, PPN: null },
+    VirtualPage { P: false, R: false, M: false, PPN: null }
+  ],
+  [
+    VirtualPage { P: true, R: false, M: true, PPN: 0 },
+    VirtualPage { P: true, R: false, M: true, PPN: 1 },
+    VirtualPage { P: true, R: false, M: true, PPN: 2 },
+    VirtualPage { P: true, R: true, M: true, PPN: 3 },
+    VirtualPage { P: true, R: false, M: true, PPN: 4 }
+  ],
+  [
+    VirtualPage { P: true, R: false, M: false, PPN: 0 },
+    VirtualPage { P: true, R: true, M: true, PPN: 1 },
+    VirtualPage { P: true, R: false, M: true, PPN: 2 },
+    VirtualPage { P: true, R: true, M: true, PPN: 3 },
+    VirtualPage { P: true, R: false, M: true, PPN: 4 },
+    VirtualPage { P: false, R: false, M: false, PPN: null },
+    VirtualPage { P: false, R: false, M: false, PPN: null },
+    VirtualPage { P: false, R: false, M: false, PPN: null },
+    VirtualPage { P: false, R: false, M: false, PPN: null },
+    VirtualPage { P: false, R: false, M: false, PPN: null }
+  ],
+  [
+    VirtualPage { P: true, R: true, M: true, PPN: 0 },
+    VirtualPage { P: true, R: false, M: true, PPN: 1 },
+    VirtualPage { P: true, R: false, M: false, PPN: 2 },
+    VirtualPage { P: true, R: true, M: true, PPN: 3 },
+    VirtualPage { P: true, R: false, M: true, PPN: 4 }
+  ],
+  [
+    VirtualPage { P: false, R: false, M: false, PPN: null },
+    VirtualPage { P: true, R: true, M: true, PPN: 1 },
+    VirtualPage { P: true, R: false, M: true, PPN: 2 },
+    VirtualPage { P: false, R: false, M: false, PPN: null },
+    VirtualPage { P: true, R: false, M: true, PPN: 4 },
+    VirtualPage { P: false, R: false, M: false, PPN: null },
+    VirtualPage { P: true, R: true, M: true, PPN: 3 },
+    VirtualPage { P: false, R: false, M: false, PPN: null },
+    VirtualPage { P: false, R: false, M: false, PPN: null },
+    VirtualPage { P: true, R: false, M: true, PPN: 0 },
+    VirtualPage { P: false, R: false, M: false, PPN: null }
+  ],
+  [
+    VirtualPage { P: true, R: true, M: true, PPN: 0 },
+    VirtualPage { P: false, R: false, M: false, PPN: null },
+    VirtualPage { P: true, R: false, M: true, PPN: 2 },
+    VirtualPage { P: true, R: false, M: true, PPN: 3 },
+    VirtualPage { P: true, R: true, M: true, PPN: 4 },
+    VirtualPage { P: true, R: false, M: true, PPN: 1 }
+  ],
+  [
+    VirtualPage { P: true, R: true, M: true, PPN: 0 },
+    VirtualPage { P: true, R: false, M: true, PPN: 1 },
+    VirtualPage { P: true, R: true, M: true, PPN: 2 },
+    VirtualPage { P: false, R: false, M: false, PPN: null },
+    VirtualPage { P: true, R: false, M: true, PPN: 4 },
+    VirtualPage { P: true, R: false, M: true, PPN: 3 },
+    VirtualPage { P: false, R: false, M: false, PPN: null },
+    VirtualPage { P: false, R: false, M: false, PPN: null },
+    VirtualPage { P: false, R: false, M: false, PPN: null }
+  ],
+  [
+    VirtualPage { P: true, R: true, M: true, PPN: 0 },
+    VirtualPage { P: true, R: false, M: true, PPN: 1 },
+    VirtualPage { P: true, R: false, M: true, PPN: 2 },
+    VirtualPage { P: true, R: true, M: true, PPN: 3 }
+  ],
+  [
+    VirtualPage { P: true, R: false, M: true, PPN: 0 },
+    VirtualPage { P: true, R: true, M: true, PPN: 1 },
+    VirtualPage { P: true, R: false, M: true, PPN: 2 }
+  ]
+]
